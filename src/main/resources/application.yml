@@ -2,7 +2,7 @@ server:
   port: 8081
 spring:
   application:
-    name: education
+    name: education-online
   datasource:
     url: jdbc:postgresql://localhost:5432/education
     username: postgres
